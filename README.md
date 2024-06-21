@@ -10,9 +10,7 @@ ruby --version
 git clone https://github.com/atulkamble/ruby.git
 cd ruby
 ```
-
-Here are some basic Ruby programs to help you get started with the language:
-
+# practice
 ```
 history -w /dev/stdout
 clear
@@ -85,6 +83,8 @@ sudo nano 10_writefile.rb
 ruby 10_writefile.rb
 cat output.txt
 ```
+Here are some basic Ruby programs to help you get started with the language:
+
 ### 1. Hello World
 The simplest program to start with.
 
