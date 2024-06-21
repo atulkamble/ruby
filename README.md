@@ -1,5 +1,11 @@
 # ruby practice
 
+# prerequisites
+```
+sudo yum install ruby -y
+ruby --version
+```
+# clone this repo
 ```
 git clone https://github.com/atulkamble/ruby.git
 cd ruby
@@ -9,9 +15,6 @@ Here are some basic Ruby programs to help you get started with the language:
 
 ```
 history -w /dev/stdout
-sudo yum install ruby -y
-ruby --version
-history
 clear
 ls
 mkdir ruby-practice
