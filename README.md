@@ -85,6 +85,8 @@ To launch and connect to an EC2 instance, follow these steps:
 
 If you encounter any issues, double-check your security group settings, key pair, and instance configuration.
 
+### Ruby Installation
+
 Ensure you have Ruby installed on your system. Install Ruby using the following command:
 ```bash
 sudo yum install ruby -y
