@@ -1,4 +1,11 @@
 # Ruby Practice
+```
+sudo yum install git -y
+sudo yum install ruby -y 
+ruby --version
+git clone https://github.com/atulkamble/ruby.git
+cd ruby 
+```
 
 ## Overview
 This repository contains a series of practice programs designed to help users get started with Ruby programming. The examples cover fundamental concepts such as basic syntax, variables, conditionals, loops, arrays, hashes, methods, classes, file operations, and more.
