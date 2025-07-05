@@ -5,5 +5,5 @@ if number > 0
 elsif number < 0
   puts "#{number} is negative"
 else
-  puts "#{number} is zero"
+  puts "provided number is zero"
 end
